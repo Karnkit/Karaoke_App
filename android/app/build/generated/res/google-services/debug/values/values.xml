@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">416448104289-eg28s1o2f79vsl7lblq6ih36oc9pm0fc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">416448104289</string>
+    <string name="google_api_key" translatable="false">AIzaSyDk_Biu7gsHsMRxdZkhFIHjc5jWwhimpa4</string>
+    <string name="google_app_id" translatable="false">1:416448104289:android:2327563cf6f99f5313a720</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDk_Biu7gsHsMRxdZkhFIHjc5jWwhimpa4</string>
+    <string name="google_storage_bucket" translatable="false">karaoke-firebase-c2254.appspot.com</string>
+    <string name="project_id" translatable="false">karaoke-firebase-c2254</string>
+</resources>
